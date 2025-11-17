@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab12\\OutputReasoning\\OutputReasoning.csproj",
+      "projectUniqueName": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab11\\OutputReasoning\\OutputReasoning.csproj",
       "projectName": "OutputReasoning",
-      "projectPath": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab12\\OutputReasoning\\OutputReasoning.csproj",
+      "projectPath": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab11\\OutputReasoning\\OutputReasoning.csproj",
       "packagesPath": "C:\\Users\\Arjun\\.nuget\\packages\\",
-      "outputPath": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab12\\OutputReasoning\\obj\\",
+      "outputPath": "C:\\MYSTUFF\\Academics\\STT\\Lab12\\STT-Assignment-5\\Lab11\\OutputReasoning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arjun\\AppData\\Roaming\\NuGet\\NuGet.Config"
